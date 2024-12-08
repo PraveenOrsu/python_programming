@@ -1,1 +1,1 @@
-# 24075A6705-Python-Lab-Recoed
+# 24075A6705-Python-Recoed
